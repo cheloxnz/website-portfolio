@@ -740,6 +740,7 @@ p {
         align-items: center;
         justify-content: center;
         min-width: 20vh;
+        margin-bottom: 20px;
     }
 
     #contact .contact-items {
