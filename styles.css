@@ -580,10 +580,12 @@ p {
     letter-spacing: .1rem;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 #footer .social-icon {
     display: flex;
+    justify-content: center;
     margin-bottom: 30px;
 }
 
@@ -738,6 +740,7 @@ p {
         align-items: center;
         justify-content: center;
         min-width: 20vh;
+        margin-bottom: 20px;
     }
 
     #contact .contact-items {
